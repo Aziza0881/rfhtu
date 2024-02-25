@@ -1,0 +1,328 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+img {
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+}
+
+.backraunt {
+    
+    height: 642px;
+    background-color:#F8EDF0 ;
+   
+}
+
+.back{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    width: 1200px;
+    height: 75px;
+    background-color:#F8EDF0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+
+.logo1 {
+    width: 79px;
+    height: 79px;
+    top: 10px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+   
+    
+}
+
+.sss {
+   color:#D23166;
+}
+
+
+.text1{
+display: flex;
+gap: 50px;
+}
+
+
+.knopka {
+    border: none;
+    background-color: #D23166;
+    border-radius: 5px;
+    width:110px;
+    height:39px;
+   color: white;
+  
+  
+}
+
+
+
+.promo {
+    display: flex;
+   
+    
+}
+
+.text_dizayn  {
+   margin-left: 165px ;
+   margin-top: 100px ;
+   font-size: 25px;
+}
+
+
+.text3 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: rgb(123, 123, 123);
+}
+
+.knopka1 {
+    border: none;
+    background-color: #D23166;
+    border-radius: 5px;
+    width:110px;
+    height:39px;
+   color: white;
+}
+
+
+.text4 {
+    color: #D23166;
+}
+
+.foto {
+margin-left: 100px;    
+max-width: 500px;
+position: relative;
+z-index: 1;
+}
+
+
+.foto1 {
+    max-width: 700px;
+  padding-bottom: 50px;
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    z-index: 2;
+}
+
+.promo_section {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+   
+}
+
+.promo_1 {
+    width: 65%;
+    height: 200px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 65%;
+    grid-gap: 50;
+    gap: 55px;
+}
+
+.foto_box {
+    max-width: 50px;
+    align-items: center;
+}
+
+.text5 {
+    font-size: 20px;
+}
+
+.text6 {
+    font-size: 10px;
+}
+
+
+.foto_box {
+    align-items: center;
+}
+
+.box {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 7px;
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    background: #FFF;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.bagraunt{
+    height: 544.495px;
+    background: #F8EDF0;
+}
+
+.header_box {
+    display: flex;
+    
+    
+}
+
+.box1 {
+    width: 600px;
+    margin-top: 145px;
+    margin-left: 153px;
+    font-size: 22px;
+
+}
+
+.box1 p {
+    color: rgb(107, 105, 105);
+    margin-top: 10px;
+}
+
+
+
+.box2{
+    margin-left: 100px;
+    width: 600px;
+}
+
+.foto9 {
+    max-width: 100%;
+    max-height:100%;
+}
+
+
+.knopka2 {
+    margin-top: 10px;
+    width: 125px;
+    height: 39px;
+    border-radius: 5px;
+    background: #D64374;
+    border: none;
+    color: aliceblue;
+}
+
+.promo_text h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.promo_text1 {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 36px;
+    
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+.bbb {
+    color: #D23166;
+}
+
+.promo_foto-2 {
+    display: flex;
+    margin-bottom: 30px;
+    padding-bottom: 149px;
+}
+
+
+.promo_img {
+    margin-left: 211px;
+}
+
+.promo-text {
+    margin-top: 110px;
+    margin-left: 110px;
+}
+
+.promo-text h3 {
+    margin-top: 10px;
+}
+
+
+.promo-text button {
+    margin-top: 10px;
+}
+
+.text-dizayn {
+    font-size: 12px;
+    color: rgb(113, 111, 111);
+    margin-bottom: 50px;
+}
+
+.flex_box {
+    height: 678px;
+    background-color: #F8EDF0;
+    display: flex;
+    margin-bottom: 191px;
+}
+
+.flex_img {
+    width: 350px;
+    height: 350px;
+}
+
+.flex_img img {
+    border-radius: 30px;
+    margin-left: 160px;
+}
+
+.flex_dizayn {
+margin-top: 90px;
+margin-left: 300px;
+font-size: 25px;
+}
+
+
+.img-flex {
+    width: 30px;
+    height: 30px;
+    
+}
+
+.flex_dizayn p {
+    margin-top: 15px;
+
+}
+
+
+.flex_logo {
+    display: flex;
+    margin-top: 47px;
+}
+
+
+.flexfoto {
+    width: 200px;
+    height: 77px;
+    margin-top: 10px;
+}
+
+.flexfoto2 {
+    width: 180px;
+    height: 66px;
+}
